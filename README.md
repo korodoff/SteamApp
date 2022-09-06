@@ -9,5 +9,5 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open https://6311d17d1f356f6acd29025e--enchanting-yeot-c23142.netlify.app/] to view it in your browser.
+Open https://6311d17d1f356f6acd29025e--enchanting-yeot-c23142.netlify.app] to view it in your browser.
 
